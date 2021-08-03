@@ -1,0 +1,12 @@
+#include <iostream>
+#include <cstdlib>
+using namespace std;
+
+int main(void)
+{
+  cout <<"Hello world";
+  return 0;
+}
+/*
+  rand() % 9999+1000;
+*/
